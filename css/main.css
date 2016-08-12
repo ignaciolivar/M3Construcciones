@@ -1,0 +1,20 @@
+.color-index{
+	background-color: #FFC02D
+}
+
+.no-float{
+	float: none;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.espacio-altura{
+
+	margin-top: 200px;
+}
+
+

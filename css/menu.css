@@ -1,0 +1,23 @@
+.color-menu{
+	background-color:#FCFFF5 
+}
+.espacio-altura{
+	margin-top: -10px;
+}
+.no-float{
+	float:none;
+}
+.navbarmod{
+	border: 1px solid #F5A503;
+  	top: -57px;
+}
+.tam-imgicono{
+	width: 50px; height: 50px;
+}
+
+.espacio-alturacont{
+	margin-top: -40px;
+}
+.panelp{
+	margin-left: 2em;
+}
