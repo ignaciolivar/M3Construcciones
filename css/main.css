@@ -4,17 +4,21 @@
 
 .no-float{
 	float: none;
-}
-.no-lista{
-	margin: 0px;
-	padding: 0px;
-}
-.no-lista li{
-	list-style-type: none;
+	position: relative;
 }
 .espacio-altura{
 
 	margin-top: 200px;
 }
 
+.colorp{
+	background-color:#FCFFF5
+}
+.ubispan{
+	font-family: 'Candal', sans-serif;
+	top:100px;
+	
+}
 
+	
+	
